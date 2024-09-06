@@ -29,6 +29,7 @@ ggplot(data.frame(roll = dice_rolls), aes(x = roll)) +
 cat("The dice has been rolled! Let's see if you're lucky today... 🎲\n")
 
 
+#Exercise 3 
 # Fun Dice Roller in R!
 
 # 1. Set up the dice roll function
