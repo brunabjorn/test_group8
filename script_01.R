@@ -25,3 +25,6 @@ ggplot(data.frame(roll = dice_rolls), aes(x = roll)) +
 
 # 4. Fun message
 cat("The dice has been rolled! Let's see if you're lucky today... 🎲\n")
+
+# this is a fun script where you roll the dice 100 times 
+
