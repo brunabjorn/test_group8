@@ -9,7 +9,7 @@ roll_dice <- function(num_rolls = 10) {
 
 # 2. Roll the dice 100 times!
 set.seed(42) # Ensures reproducibility (so we can "cheat" a little)
-dice_rolls <- roll_dice(100)
+dice_rolls <- roll_dice(3)
 
 # 3. Visualize the result
 library(ggplot2)
