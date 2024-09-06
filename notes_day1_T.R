@@ -1,3 +1,18 @@
+#----Script Header-------------------------####
+# Date: 
+# Author: 
+# Filename:     
+# Description:  
+#               
+#               
+# Project: 
+#-------------------------------------------###
+
+
+#Heading----
+##Subtitle----
+
+
 a <- 1
 b <- 2
 # y is sum of a and b
@@ -15,18 +30,8 @@ my_variable <- "This is a string variable"
 sum_result <- a + b
 sum_result
 
-#Heading----
-##Subtitle----
 
-#----Script Header-------------------------####
-# Date:         
-# Author:       
-# Filename:     
-# Description:  
-#               
-#               
-# Project: 
-#-------------------------------------------###
+
 
 5*8
 
